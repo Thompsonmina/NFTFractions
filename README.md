@@ -1,6 +1,6 @@
 # Tokens.mligo
 
-Tokens is a tezos smart contract that allows people create thier own fa2 standard tokens. All the management is done in one smart contract and all the fa2 operations are supported.
+Tokens is a tezos smart contract that allows people create thier own fungible (erc20) fa2 standard tokens. All the management is done in one smart contract and all the fa2 operations are supported.
 
 Current Features
 1. you can create your own token with the details on chain
